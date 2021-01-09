@@ -1,3 +1,6 @@
+# Run client.py after intiating corresponding server.py so that the connection request initiatied by client is accepted.
+
+
 import socket
 import subprocess
 
