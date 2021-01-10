@@ -1,6 +1,6 @@
 import socket
 
-HOST = '127.0.0.1'
+HOST = '127.0.0.1' # Enter your server IP
 PORT = 7777
 server = socket.socket()
 server.bind((HOST, PORT))
